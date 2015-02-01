@@ -2,10 +2,10 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>beyondcompare</id>
-    <version>4.0.0.18847</version>
+    <version>3.3.13.18981</version>
     <title>Beyond Compare</title>
     <authors>Scooter Software</authors>
-    <owners>Miguel Madero, Brendan Forster</owners>
+    <owners>Miguel Madero, Brendan Forster, Ewen Wallace</owners>
     <projectUrl>http://scootersoftware.com/download.php</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Beyond Compare is focused.  Beyond Compare allows you to quickly and easily compare your files and folders.  By using simple, powerful commands you can focus on the differences you're interested in and ignore those you're not.  You can then merge the changes, synchronize your files, and generate reports for your records.</description>
@@ -13,10 +13,10 @@
     <tags>compare beyondcompare beyond</tags>
 	<releaseNotes>
     --------------------------------
-    v4.0.0.18847       Sept. 1, 2014
+    3.3.13.18981  Build 18981  Oct. 1, 2014
     --------------------------------
 
-    - This is the first official release of Beyond Compare version 4.
+    - This is an older version of Beyond Compare.  It is provided here for those who have a license to version 3.x and have not upgraded.
   </releaseNotes>
   </metadata>
 </package>

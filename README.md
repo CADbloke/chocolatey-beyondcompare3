@@ -1,5 +1,10 @@
 ## BeyondCompare Chocolatey Package
 
+###Forked from https://github.com/shiftkey/chocolatey-beyondcompare
+Updated to seek out the latest Version 3 download, for those who haven't upgrade their license to Version 4. Perhaps it would have been easier to jsut upgrade the license, eh?
+
+*Original ReadMe by @ShiftKey...*
+
 This is the code I use to publish the BeyondCompare package to Chocolatey. 
 
 It's actually really easy. 
